@@ -1,0 +1,50 @@
+.container {
+  margin-bottom: 10px;
+}
+.bg-background img {
+  width: 407px;
+}
+
+.nike-color {
+  color: #fa804c;
+  text-transform: uppercase;
+  font-size: 80px;
+  font-weight: 700;
+}
+.run-color {
+  color: #363958;
+}
+.body-heder img {
+  width: 78px;
+  height: 82px;
+}
+.body-info {
+  display: flex;
+}
+.find-name {
+  font-weight: 700;
+  font-size: 24px;
+}
+.every-body {
+  font-weight: 400;
+  font-size: 16px;
+}
+.body-img img {
+  width: 599px;
+  height: 355px;
+}
+.icons-img img {
+  width: 78px;
+  height: 82px;
+}
+.fit-text{
+  margin-left: 35px;
+}
+.fit-text h3 {
+  font-weight: 700;
+  font-size: 24px;
+}
+.xm-img img{
+  width: 600px;
+  height: 355px;
+}
